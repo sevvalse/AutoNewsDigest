@@ -1,0 +1,6 @@
+asyncio
+playwright>=1.40.0
+telethon>=1.29.0
+newspaper3k>=0.2.8
+openai>=1.0.0
+langdetect>=1.0.9
